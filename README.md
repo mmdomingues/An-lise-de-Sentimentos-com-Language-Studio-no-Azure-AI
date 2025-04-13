@@ -27,7 +27,17 @@ Este projeto mostra como a Inteligência Artificial pode ser usada para analisar
 - Visualizar os dados com Python (ex: wordcloud, gráficos)
 - Usar modelos de clustering para agrupar temas parecidos
 
-## 🖼️ Prints
+## 🖼️ Prints da Análise
 
-*(Adicione aqui as imagens após upload na pasta `images`)*
+### 🧩 Tema Central
+
+![Print 1](images/Print%201.png)
+---
+
+### 🧭 Áreas Impactadas
+
+![Print 2](images/Print%202.png)
+---
+
+
 
